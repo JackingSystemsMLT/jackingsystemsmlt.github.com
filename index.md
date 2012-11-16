@@ -20,36 +20,36 @@ tagline: General Mechanical & Fuel Injection Repairs & Services
 <hr>
 
 <div class="featurette cursor-pointer">
-  <img class="featurette-image pull-right popup-image" src="../assets/img/mltJackup.jpg"></img>
-  <p class="lead">To contact us:</p>
-  <p class="lead">Singapore</p>
-  <p class="lead">Parc Palais,</p>
-  <p class="lead">Singapore</p>
-  <p class="lead">598753</p>
-  <p class="lead">Telephone: +65 96920441</p>
-  <p class="lead">Email: thanhngoc@live.com.sg</p>
-  <p class="lead">Vung Tau, Vietnam</p>
-  <p class="lead">973, April 30 Street</p>
-  <p class="lead">Vung Tau, Viet Nam Telephone: (84)- 903923120 Fax: (84)- 64- 3622517</p>
-  <p class="lead">Email: terrycawthorne@vnn.vn</p>
-  <p class="lead">India</p>
-  <p class="lead">1, Juliet D'souza House,</p>
-  <p class="lead">Cardinal Gracious Road</p>
-  <p class="lead">Andheri East,</p>
-  <p class="lead">Mumbai : 400 099. INDIA.</p>
-  <p class="lead">Tele /Fax NO. + 91 22 28255430 Email: terrycawthorne@vnn.vn / rlblservices@gmail.com</p>
-</div>
-<hr>
+  <img class="featurette-image pull-left popup-image" src="../assets/img/oilrig.jpg"></img>
+  <h2 class="featurette-heading">To contact us:</h2>
+  
+  <address>
+    <strong>Singapore</strong><br>
+    Vung Tau, Vietnam<br>
+    Singapore<br>
+    598753<br>
+    <abbr title="Phone">P:</abbr> +65 96920441<br>
+    <a href="mailto:thanhngoc@live.com.sg">thanhngoc@live.com.sg</a>
+  </address>
+  
+  <address>
+    <strong>Vung Tau, Vietnam</strong><br>
+    973, April 30 Street<br>
+    Vung Tau, Viet Nam<br>
+    <abbr title="Phone">P:</abbr> (84)- 903923120<br>
+    <abbr title="Phone">F:</abbr> (84)- 64- 3622517<br>
+    <a href="mailto:terrycawthorne@vnn.vn">terrycawthorne@vnn.vn</a>
+  </address>
 
-<div class="featurette cursor-pointer">
-  <img class="featurette-image pull-right popup-image" src="../assets/img/jackup2.jpg"></img>
-</div>
-
-<!--
-
-<div class="huge-divider pagination-centered">
-  <h1>OUR SERVICES</h1>
+  <address>
+    <strong>India</strong><br>
+    1, Juliet D'souza House,<br>
+    Cardinal Gracious Road<br>
+    Andheri East,<br>
+    Mumbai : 400 099. INDIA.<br>
+    <abbr title="Phone">P/F:</abbr> + 91 22 28255430<br>
+    <a href="mailto:terrycawthorne@vnn.vn">terrycawthorne@vnn.vn</a>
+    <a href="mailto:rlblservices@gmail.com">rlblservices@gmail.com</a>
+  </address>
 </div>  
-
--->
 

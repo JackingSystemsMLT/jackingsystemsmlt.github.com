@@ -24,9 +24,24 @@ tagline: General Mechanical & Fuel Injection Repairs & Services
 <div class="featurette cursor-pointer">
   <img class="featurette-image pull-right popup-image" src="../assets/img/employee2.jpg"></img>
   <h2 class="featurette-heading">Eddy Lawerence</h2>
-  <h2 class="featurette-heading"><span class="muted">Manager of India Operations</span></h2>
+  <h2 class="featurette-heading"><span class="muted">India Supervisor</span></h2>
   <p class="lead"><a href="mailto:elaw02@gmail.com">elaw02@gmail.com</a></p>
 </div>
+
+<div class="featurette cursor-pointer">
+  <img class="featurette-image pull-left popup-image" src="../assets/img/employee2.jpg"></img>
+  <h2 class="featurette-heading">Ben Daley</h2>
+  <h2 class="featurette-heading"><span class="muted">Jacking Supervisor</span></h2>
+  <p class="lead"><a href="mailto:elaw02@gmail.com">bjdvietnam@yahoo.com</a></p>
+</div>
+
+<div class="featurette cursor-pointer">
+  <img class="featurette-image pull-right popup-image" src="../assets/img/employee2.jpg"></img>
+  <h2 class="featurette-heading">Dave Stevens</h2>
+  <h2 class="featurette-heading"><span class="muted">Jacking Supervisor</span></h2>
+  <p class="lead"><a href="mailto:elaw02@gmail.com">bestdecision@acnrep.com</a></p>
+</div>
+
 
 <div class="featurette cursor-pointer">
   <img class="featurette-image pull-left popup-image" src="../assets/img/employee3.jpg"></img>
@@ -34,4 +49,8 @@ tagline: General Mechanical & Fuel Injection Repairs & Services
   <h2 class="featurette-heading"><span class="muted">Jacking and Electrical Supervisor</span></h2>
   <p class="lead"><a href="mailto:jackin.joe@hotmail.com">jackin.joe@hotmail.com</a></p>
 </div>
+
+
+ 
+
 
