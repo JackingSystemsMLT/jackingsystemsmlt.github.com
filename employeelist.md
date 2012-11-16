@@ -29,14 +29,14 @@ tagline: General Mechanical & Fuel Injection Repairs & Services
 </div>
 
 <div class="featurette cursor-pointer">
-  <img class="featurette-image pull-left popup-image" src="../assets/img/employee2.jpg"></img>
+  <img class="featurette-image pull-left popup-image" src="../assets/img/swingB.jpg"></img>
   <h2 class="featurette-heading">Ben Daley</h2>
   <h2 class="featurette-heading"><span class="muted">Jacking Supervisor</span></h2>
   <p class="lead"><a href="mailto:elaw02@gmail.com">bjdvietnam@yahoo.com</a></p>
 </div>
 
 <div class="featurette cursor-pointer">
-  <img class="featurette-image pull-right popup-image" src="../assets/img/employee2.jpg"></img>
+  <img class="featurette-image pull-right popup-image" src="../assets/img/swingG.jpg"></img>
   <h2 class="featurette-heading">Dave Stevens</h2>
   <h2 class="featurette-heading"><span class="muted">Jacking Supervisor</span></h2>
   <p class="lead"><a href="mailto:elaw02@gmail.com">bestdecision@acnrep.com</a></p>
