@@ -48,8 +48,7 @@ tagline: General Mechanical & Fuel Injection Repairs & Services
     Andheri East,<br>
     Mumbai : 400 099. INDIA.<br>
     <abbr title="Phone">P/F:</abbr> + 91 22 28255430<br>
-    <a href="mailto:terrycawthorne@vnn.vn">terrycawthorne@vnn.vn</a><p>
-    <a href="mailto:rlblservices@gmail.com">rlblservices@gmail.com</a>
+    <a href="mailto:terrycawthorne@vnn.vn">terrycawthorne@vnn.vn</a>
   </address>
 </div>  
 
