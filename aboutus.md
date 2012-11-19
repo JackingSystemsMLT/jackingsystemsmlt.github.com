@@ -26,7 +26,7 @@ tagline: General Mechanical & Fuel Injection Repairs & Services
     Vung Tau, Vietnam<br>
     <abbr title="Phone">P:</abbr> +84 0903923120<br>
     <abbr title="Phone">F:</abbr> +84 64 622517<br>
-    <a href="mailto:terrycawthorne@vnn.vn">terrycawthorne@vnn.vn</a>
+    <a href="mailto:thanhngoc@live.com.sg">thanhngoc@live.com.sg</a>
   </address>
 </div>
 
